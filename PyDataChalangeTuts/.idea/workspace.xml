@@ -1,0 +1,1861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27404de3-ffa3-4fe5-804d-5df6ba5ab52e" name="Default" comment="" />
+    <ignored path="PyDataChalangeTuts.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PyDataChalangeTuts$test.coverage" NAME="test Coverage Results" MODIFIED="1474730849922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PyDataChalangeTuts" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testing/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../GDXtest" value="10259654550728" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="1" />
+    <option name="width" value="1366" />
+    <option name="height" value="767" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyDataChalangeTuts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyDataChalangeTuts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyDataChalangeTuts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyDataChalangeTuts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyDataChalangeTuts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="4.4.7" />
+    <property name="configurable.Global.libraries.is.expanded" value="true" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyDataChalangeTuts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CabalRunConfiguration" factoryName="Haskell">
+      <module name="" />
+      <setting name="executableName" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <environmetVariables />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyDataChalangeTuts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="erlFlags" value="" />
+      <option name="moduleAndFunction" value="" />
+      <option name="params" value="" />
+      <option name="useTestCodePath" value="false" />
+      <option name="workDirectory" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="ErlangUnitRunConfigurationType" factoryName="Erlang Eunit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="workDirectory" />
+      <module />
+      <option name="functionNames">
+        <set />
+      </option>
+      <option name="kind" value="MODULE" />
+      <option name="moduleNames">
+        <set />
+      </option>
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JRubyCucumberRunConfigurationType" factoryName="JRuby Cucumber">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-Dforce.jruby.jit=true -Djruby.debug.fullTrace=true" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PyDataChalangeTuts" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyDataChalangeTuts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyDataChalangeTuts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyDataChalangeTuts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RebarEunitRunConfigurationType" factoryName="Erlang Rebar Eunit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="command" value="eunit" />
+      <option name="skipDependencies" value="true" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="PyDataChalangeTuts" />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyDataChalangeTuts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyDataChalangeTuts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyDataChalangeTuts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyDataChalangeTuts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyDataChalangeTuts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../Balance_the_Force" value="1468521408952" />
+        <entry key="$PROJECT_DIR$/../WeatherStatistics" value="1468619815575" />
+        <entry key="$PROJECT_DIR$/../blog-scala-javacv" value="1473809427126" />
+        <entry key="$PROJECT_DIR$/../forcomp" value="1462334812000" />
+        <entry key="$PROJECT_DIR$/../patmat" value="1462398064000" />
+        <entry key="$PROJECT_DIR$/../scala-android-sbt" value="1473179253946" />
+        <entry key="$PROJECT_DIR$/../scala-oauth2-provider-example-skinny-orm" value="1471385626912" />
+        <entry key="$PROJECT_DIR$/../streams" value="1464305052000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27404de3-ffa3-4fe5-804d-5df6ba5ab52e" name="Default" comment="" />
+      <created>1474137284583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1474137284583</updated>
+      <workItem from="1474137286894" duration="379000" />
+      <workItem from="1474404245948" duration="922000" />
+      <workItem from="1474730354907" duration="2319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3620000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="1" width="1366" height="767" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TagMyCode" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32770744" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34410113" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20790629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Cabal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testing/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PyVirtualEnvs/data_chalange/lib/python3.5/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="1990" column="0" selection-start-line="1990" selection-start-column="0" selection-end-line="1990" selection-end-column="0" />
+          <folding>
+            <marker date="1474137362475" expanded="true" signature="0:297" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="false" signature="298:2404" ph="import ..." />
+            <marker date="1474137362475" expanded="true" signature="330:401" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="2406:2499" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="2662:2820" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="2835:5921" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="5923:6014" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="6042:195742" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="6047:7591" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="7634:7659" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="7746:7811" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="7914:12240" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="8154:8291" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="8444:9136" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="8580:8709" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="8757:9136" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="8833:8947" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="9197:9816" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="9230:9500" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="9546:9670" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="9688:9816" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="9876:11116" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="9994:11027" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="10073:10869" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="10400:10740" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="10891:11027" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="11249:12188" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="11376:11558" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="11409:11511" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="11635:12090" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="12301:14134" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="12310:12442" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="12474:13821" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="12533:12597" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="12747:12826" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="13065:13821" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="13099:13697" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="13360:13454" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="13836:14054" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="14212:16870" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="14307:14728" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="14339:14427" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="14835:15187" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="15197:15306" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="15420:15798" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="15466:15564" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="15921:16005" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="16086:16413" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="16124:16413" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="16237:16413" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="16500:16678" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="16905:17103" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="16914:17061" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="17139:17286" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="17148:17236" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="17323:17473" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="17332:17386" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="17532:19352" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="17541:17894" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="18239:18323" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="18508:18597" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="18675:18846" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="18881:18990" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="19043:19156" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="19379:19654" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="19682:20471" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="19691:19866" ph="&quot;&quot;&quot;Return a string representation for a particular DataFrame...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="19926:19991" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="20499:21825" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="20508:20625" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="20634:20982" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="21013:21090" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="21121:21403" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="21457:21787" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="21854:22139" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="21863:22021" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="22175:22476" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="22184:22400" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="22502:23026" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="22511:22765" ph="&quot;&quot;&quot;Iterator over (column name, Series) pairs....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="22833:22917" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="22931:23026" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="23051:24626" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="23060:24473" ph="&quot;&quot;&quot;Iterate over DataFrame rows as (index, Series) pairs....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="24554:24626" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="24680:26873" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="24689:25953" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="26011:26084" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="26242:26363" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="26428:26807" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="26497:26756" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="26963:27064" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="27091:28729" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="27100:27328" ph="&quot;&quot;&quot;Matrix multiplication with DataFrame or Series objects...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="27379:27783" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="27797:28075" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="27940:28075" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="28117:28254" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="28413:28629" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="28735:28850" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="28928:30128" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="28937:29541" ph="&quot;&quot;&quot;Construct DataFrame from dict of array-like or dicts...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="29639:29930" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="29669:29930" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="30235:32464" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="30244:31146" ph="&quot;&quot;&quot;Convert DataFrame to dictionary....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="31185:31320" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="31212:31306" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="31607:31899" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="31628:31898" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="31944:32060" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="31970:32058" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="32105:32267" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="32126:32266" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="32132:32221" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="32614:34183" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="32623:33923" ph="&quot;&quot;&quot;Write a DataFrame to a Google BigQuery table....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="34327:38715" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="34336:35386" ph="&quot;&quot;&quot;Convert structured or record ndarray to DataFrame...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="35562:36217" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="36253:36799" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="36285:36405" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="36423:36799" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="36536:36660" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="36573:36660" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="36856:37031" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="37045:37372" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="37537:38271" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="37648:37905" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="37923:38271" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="37944:38196" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="38297:38616" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="38779:40499" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="38788:39284" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="39302:40235" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="39450:39715" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="39505:39643" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="39915:40096" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="39967:40096" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="40001:40096" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="40249:40359" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="40581:42568" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="40590:41375" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="41444:42108" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="41480:41952" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="41610:41859" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="41674:41823" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="41716:41822" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="41970:42048" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="42140:42457" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="42649:42748" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="42944:45185" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="42953:44863" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="45242:45729" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="45251:45477" ph="&quot;&quot;&quot;Convert to SparseDataFrame...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="45754:47516" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="45763:46037" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="46316:46434" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="46346:46433" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="47246:47326" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="47979:51850" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="47988:50829" ph="&quot;&quot;&quot;Write DataFrame to a comma-separated values (csv) file...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="52147:55425" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="52156:54498" ph="&quot;&quot;&quot;Write DataFrame to a excel sheet...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="54691:54788" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="55599:56924" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="55608:56579" ph="&quot;&quot;&quot;A class for writing Stata binary dta files from array-like objects...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="57304:58295" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="57313:57393" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="58223:58295" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="58751:60835" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="58760:59583" ph="&quot;&quot;&quot;Render a DataFrame as an HTML table....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="59617:59792" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="61254:63726" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="61263:62473" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="62507:62682" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="63836:68735" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="63845:65173" ph="&quot;&quot;&quot;Concise summary of a DataFrame....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="65438:65551" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="65625:65744" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="65848:65962" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="66101:66997" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="66362:66654" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="66445:66614" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="66739:66997" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="67031:67094" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="67141:67441" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="67249:67379" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="67611:67731" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="68023:68704" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="68191:68520" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="68208:68380" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="68788:69927" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="68797:69621" ph="&quot;&quot;&quot;Memory usage of DataFrame columns....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="69647:69741" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="69781:69905" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="69970:70120" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="70155:70275" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="70320:70713" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="70423:70512" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="70526:70608" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="70760:71329" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="71092:71298" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="71335:71442" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="71496:72085" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="71505:71809" ph="&quot;&quot;&quot;Quickly retrieve single value at passed column and index...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="71831:71945" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="72146:73139" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="72155:72587" ph="&quot;&quot;&quot;Put single value at passed column and index...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="72600:72925" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="72633:72754" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="72963:73139" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="73175:73400" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="73184:73244" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="73424:73653" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="73433:73496" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="73685:76377" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="73694:73776" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="73814:74970" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="73827:73945" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="74032:74970" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="74115:74253" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="74275:74887" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="75000:76377" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="75013:75131" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="75205:75343" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="75361:76377" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="75531:75775" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="76410:76641" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="76419:76481" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="76674:77540" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="76843:76950" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="77223:77319" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="77577:77931" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="77967:78007" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="78043:79246" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="78143:79109" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="78156:78415" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="78492:78648" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="78523:78620" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="78694:78829" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="78842:78955" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="79123:79246" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="79287:80526" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="79391:80467" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="79535:79642" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="79660:79900" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="79941:80402" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="80101:80402" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="80192:80402" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="80562:80736" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="80789:84194" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="80798:83570" ph="&quot;&quot;&quot;Query the columns of a frame with a boolean expression....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="83624:83746" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="83949:84088" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="83962:84055" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="84245:86144" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="84254:85694" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="85827:85949" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="86202:90491" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="86211:88202" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="88332:88448" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="88361:88447" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="88542:88658" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="88572:88657" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="89026:89143" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="89153:89743" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="89937:90006" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="90145:90370" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="90537:90771" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="90818:91023" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="91063:91565" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="91501:91565" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="91608:91693" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="91736:92691" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="91836:92205" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="91880:92015" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="92219:92691" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="92264:92486" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="92504:92691" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="92734:93089" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="92743:92822" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="93132:93792" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="93141:93256" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="93373:93792" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="93448:93646" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="93482:93645" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="93830:94486" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="93839:94157" ph="&quot;&quot;&quot;Add series to DataFrame in specified column....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="94302:94425" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="94553:95123" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="94562:94923" ph="&quot;&quot;&quot;Insert column into DataFrame at specified location....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="95156:97779" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="95165:97477" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="97824:100941" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="97833:97939" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="97970:98595" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="98139:98570" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="98288:98570" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="98474:98569" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="98715:99300" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="98728:98833" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="98910:99232" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="99030:99232" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="99441:100156" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="99665:99874" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="100171:100395" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="100609:100892" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="100714:100892" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="100979:101190" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="101049:101168" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="101237:102880" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="101246:101915" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="102129:102589" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="102603:102765" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="102886:102989" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="103098:103547" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="103186:103324" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="103385:103525" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="103676:104088" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="104215:104641" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="104696:105564" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="104959:105265" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="105279:105564" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="105328:105434" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="105803:106223" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="106343:106475" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="106673:106926" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="107044:107174" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="107359:107591" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="107701:107828" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="107942:110875" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="107951:108989" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="109205:109484" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="109306:109424" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="109533:110447" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="109577:109903" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="109594:109692" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="109945:110020" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="110061:110128" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="110189:110252" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="110270:110414" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="110562:110684" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="110988:115505" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="110997:112309" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="112459:113218" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="112678:112826" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="112930:113192" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="113042:113192" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="113315:114744" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="113349:113635" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="113661:114744" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="113908:114744" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="114074:114494" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="114229:114494" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="114768:115419" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="114973:115321" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="115096:115321" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="115511:115621" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="115719:117945" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="115728:116592" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="116636:116816" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="116690:116816" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="116830:117843" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="116972:117270" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="117573:117766" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="117998:118077" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="118152:119213" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="118161:118953" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="119030:119162" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="119266:119345" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="119400:121066" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="119409:120152" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="120302:120561" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="121072:121158" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="121351:123573" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="121624:121759" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="121783:122440" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="121871:121983" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="122031:122257" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="122098:122219" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="122454:123237" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="122592:123018" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="122686:122903" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="122724:122892" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="123708:125589" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="123717:124934" ph="&quot;&quot;&quot;DEPRECATED: use :meth:`DataFrame.sort_values`...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="125005:125256" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="125280:125366" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="125836:128015" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="125880:126275" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="125907:126007" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="126416:126574" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="126620:127055" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="126695:126813" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="127069:127679" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="127137:127294" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="127433:127549" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="128128:128972" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="128137:128817" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="129023:129398" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="129449:130392" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="129458:130333" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="130444:131386" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="130453:131326" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="131432:132161" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="131441:131914" ph="&quot;&quot;&quot;Swap levels i and j in a MultiIndex on a particular axis...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="132207:133090" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="132216:132644" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="133096:133207" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="133280:135096" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="133454:133875" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="133493:133837" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="133932:134898" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="133993:134296" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="134022:134232" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="134340:134898" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="134367:134623" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="134656:134741" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="135205:135760" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="135234:135627" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="135311:135458" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="135476:135627" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="135840:136260" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="135925:136124" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="136339:136803" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="136494:136615" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="136884:137330" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="137039:137159" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="137395:137611" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="137673:138526" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="137726:138057" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="137759:137839" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="138092:138526" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="138125:138258" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="138155:138256" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="138579:138806" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="138621:138740" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="138651:138739" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="138871:139057" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="139127:142212" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="139136:139667" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="140172:141961" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="140422:140529" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="140580:140652" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="140677:140865" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="141004:141183" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="141197:141295" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="141400:141493" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="141584:141677" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="142249:143312" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="142258:142724" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="142780:143249" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="142942:143069" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="143426:145279" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="143435:144157" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="144468:145279" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="144656:145155" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="144691:144893" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="144924:145092" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="145285:145376" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="145410:145583" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="145419:145483" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="145616:145789" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="145625:145688" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="145795:145888" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="145949:147521" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="145958:147403" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="147566:148715" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="147575:148478" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="148766:150551" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="148775:150455" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="150557:150655" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="150695:151253" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="150704:151097" ph="&quot;&quot;&quot;1st discrete difference of object...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="151259:151358" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="151466:155116" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="151475:153984" ph="&quot;&quot;&quot;Applies function along input axis of DataFrame....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="154087:154156" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="154110:154156" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="154368:154545" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="154559:155116" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="154589:155044" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="154629:154768" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="154895:155044" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="155187:155560" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="155214:155433" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="155258:155382" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="155599:155985" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="156065:159658" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="156075:156153" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="156298:156489" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="156508:157304" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="156555:156639" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="156685:157304" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="157002:157245" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="157383:157565" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="157410:157490" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="157589:157977" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="157723:157976" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="158173:158593" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="158247:158448" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="158268:158389" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="158607:159106" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="158624:158756" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="158675:158756" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="158791:159106" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="158830:159084" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="158913:159084" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="158998:159082" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="159164:159545" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="159560:159635" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="159703:160295" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="160326:161454" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="160335:161283" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="161369:161420" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="161460:161564" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="161638:164544" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="161647:163093" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="163139:164010" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="163273:163417" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="163306:163416" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="164088:164244" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="164642:166632" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="164651:166458" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="166746:168087" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="166838:166990" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="167032:167222" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="167236:168087" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="167267:167403" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="167301:167402" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="167479:167550" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="167739:167869" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="167939:168060" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="168354:168658" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="168709:171809" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="168718:170480" ph="&quot;&quot;&quot;Round a DataFrame to a variable number of decimal places....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="170566:170757" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="170611:170757" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="170798:170925" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="171016:171251" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="171061:171183" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="171290:171434" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="171354:171433" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="171448:171563" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="171477:171562" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="171594:171771" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="171815:171919" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="171973:173935" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="171982:172603" ph="&quot;&quot;&quot;Compute pairwise correlation of columns, excluding NA/null values...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="172863:172997" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="173011:173867" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="173327:173867" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="173372:173867" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="173973:175122" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="173982:174478" ph="&quot;&quot;&quot;Compute pairwise covariance of columns, excluding NA/null values...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="174622:174911" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="174689:174791" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="174925:175053" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="175174:176554" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="175183:175663" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="176066:176120" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="176360:176531" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="176560:176665" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="176727:178163" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="176736:177436" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="177509:177628" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="177879:178124" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="177989:178124" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="178227:179609" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="178477:178606" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="178640:178800" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="178653:178759" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="178814:178921" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="178944:179111" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="178957:179085" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="179500:179569" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="179725:182666" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="179787:179846" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="180100:181402" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="180117:180189" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="180224:181402" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="180317:180804" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="180342:180747" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="180368:180543" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="181040:181312" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="181105:181209" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="181416:182061" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="181445:181975" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="181680:181888" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="181728:181822" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="182133:182621" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="182150:182396" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="182440:182621" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="182710:183640" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="182719:183361" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="183684:184624" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="183693:184345" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="184664:184910" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="184959:186188" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="184968:186030" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="186119:186147" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="186288:188946" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="186297:188009" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="188079:188126" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="188310:188412" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="188682:188924" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="189018:190147" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="189027:189659" ph="&quot;&quot;&quot;Cast to DatetimeIndex of timestamps, at *beginning* of period...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="190203:191173" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="190212:190709" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="191202:194140" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="191211:192759" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="192796:193079" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="192969:193069" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="193120:193346" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="193163:193278" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="193197:193277" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="193390:193633" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="193464:193579" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="193498:193578" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="193647:194140" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="193688:193959" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="193721:193928" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="194146:194241" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="194275:194992" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="194284:194767" ph="&quot;&quot;&quot;DEPRECATED. Use ``DataFrame.add(other, fill_value=0.)`` instead....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="194790:194894" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="195027:195742" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="195036:195516" ph="&quot;&quot;&quot;DEPRECATED. Use ``DataFrame.mul(other, fill_value=1.)`` instead....&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="195539:195644" ph="&quot;...&quot;" />
+            <marker date="1474137362475" expanded="true" signature="196062:196615" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="196067:196187" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="196642:198246" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="196782:198213" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="196940:197319" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="196978:197053" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="197091:197172" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="197237:197319" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="197364:197479" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="197394:197478" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="197591:198213" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="197764:197897" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="197798:197896" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="197926:198144" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="197971:198144" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="198286:199246" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="198346:198925" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="198450:198503" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="198513:198663" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="198676:198872" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="198936:199072" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="199311:201089" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="199316:199362" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1474137362475" expanded="true" signature="199398:199720" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="199430:199559" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="199453:199558" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="199573:199688" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="199743:199975" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="199784:199911" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="200018:200135" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="200186:200319" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="200357:200535" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="200578:200683" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="200784:200901" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="200911:201089" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="201156:202202" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="201362:201479" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="201739:201929" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="201804:201898" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="202255:202616" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="202402:202585" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="202686:203008" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="202808:202884" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="203088:204036" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="203167:203293" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="203207:203291" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="203361:203752" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="203828:203993" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="204114:204573" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="204138:204240" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="204246:204324" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="204652:205352" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="204733:205002" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="204774:205002" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="204887:204970" ph="'...'" />
+            <marker date="1474137362475" expanded="true" signature="205072:205276" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="205123:205257" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="205387:205797" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="205610:205779" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="205712:205779" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="205841:206809" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="205952:206785" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="205986:206263" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="206093:206263" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="206110:206214" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="206277:206754" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="206313:206629" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="206840:207122" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="206961:207102" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="207004:207102" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="207148:207191" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="207193:207301" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="207662:207992" ph="..." />
+            <marker date="1474137362475" expanded="true" signature="208191:208314" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

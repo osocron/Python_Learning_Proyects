@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearnPythonBook/LearnPythonBook.iml" filepath="$PROJECT_DIR$/LearnPythonBook/LearnPythonBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningpython.iml" filepath="$PROJECT_DIR$/.idea/modules/learningpython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningpython-build.iml" filepath="$PROJECT_DIR$/.idea/modules/learningpython-build.iml" />
+    </modules>
+  </component>
+</project>
